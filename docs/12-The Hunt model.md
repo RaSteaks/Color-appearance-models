@@ -133,7 +133,7 @@ von Kries 假说在这些方程中体现为核心比值 $\rho/\rho_W$、$\gamma/
 该函数的特性如图 12-1 所示。在对数-对数坐标下，这个函数在中间操作范围内呈现线性，接近一个简单的幂函数（指数约为 1/2）。在低光照水平下，函数的斜率逐渐增加，模拟阈值行为；在高光照水平下，斜率逐渐下降至 0，模拟饱和行为。
 
 <p align="center">
-  <img src="../imgs/chapter12/12-1.png" alt="Hunt模型的非线性响应函数" width="60%">
+  <img src="../docs/imgs/chapter12/12-1.png" alt="Hunt模型的非线性响应函数" width="60%">
 </p>
 <p align="center">
   图 12.1：Hunt 颜色外观模型的非线性响应函数 $f_n(I)$。
@@ -216,7 +216,7 @@ von Kries 假说在这些方程中体现为核心比值 $\rho/\rho_W$、$\gamma/
 </div>
 
 <p align="center">
-  <img src="../imgs/chapter12/12-2.png" alt="Fr色彩适应因子曲线" width="60%">
+  <img src="../docs/imgs/chapter12/12-2.png" alt="Fr色彩适应因子曲线" width="60%">
 </p>
 <p align="center">
   图 12.2：色彩适应因子 $F_\rho$ 随适应色彩纯度和亮度水平的变化。
